@@ -1,0 +1,14 @@
+
+.carousel-inner h2 {
+    color: aliceblue;
+}
+.carousel-inner p {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+@media (max-width: 767px) {
+    .@media {
+      text-align: center;
+    }
+  
